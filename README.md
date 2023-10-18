@@ -41,7 +41,7 @@ The fisrt one with a background image, title, and a button that takes you to the
 >João Inácio Campana Moraes
 
 <br> **For support:**
->lopes.gustavodossantos@gmail.com
+>joaolemes17@hotmail.com
 
 <br> **Images:**
 ><img src="https://github.com/lopes-gustavodossantos/Challenge_2_Internship/assets/94156483/c0580b46-1604-47e7-aa21-7a66d083fcfc" width="220" height="470">
